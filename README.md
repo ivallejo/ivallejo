@@ -1,4 +1,4 @@
-## Hola <img alt="Hola" src="./images/Hi.gif" width="30px" />, Fernando Vallejo — Analista Programador 👨‍💻
+## Hola <img alt="Hola" src="./images/Hi.gif" width="30px" />, Soy Fernando Vallejo — Analista Programador de Sistemas 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fernandovallejoaguilar)
 
